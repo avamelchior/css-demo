@@ -19,3 +19,13 @@ h1 {
     text-align: center;
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+
+h5 {
+    background-color: #3b00fd;
+    color: #00f92a;
+    margin-left: 475px;
+    margin-right: 475px;
+    margin-top: 35px;
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
